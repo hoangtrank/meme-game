@@ -1,0 +1,7 @@
+node_modules/
+workflow/spikes/**/node_modules/
+workflow/spikes/**/dist/
+.claude/settings.local.json
+playwright-report/
+test-results/
+.DS_Store

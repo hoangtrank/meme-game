@@ -1,0 +1,12 @@
+{
+  "name": "hoangtrank-workflows",
+  "owner": { "name": "hoangtrank" },
+  "plugins": [
+    {
+      "name": "project-workflow",
+      "source": "./",
+      "description": "Quy trình nhiều agent từ research đến goal",
+      "version": "0.1.0"
+    }
+  ]
+}

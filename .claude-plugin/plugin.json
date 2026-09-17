@@ -1,0 +1,11 @@
+{
+  "name": "project-workflow",
+  "displayName": "Project Workflow",
+  "version": "0.1.0",
+  "description": "Quy trình nhiều agent từ research đến goal: researcher, red team, architect, developer, qa, reviewer, customer-grader, kèm workflow research và deliver.",
+  "author": { "name": "hoangtrank" },
+  "keywords": ["workflow", "multi-agent", "research", "delivery"],
+  "agents": ["./.claude/agents/"],
+  "skills": "./.claude/skills/",
+  "workflows": "./.claude/workflows/"
+}
